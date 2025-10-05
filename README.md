@@ -15,6 +15,10 @@
 
 ### Решение 1
 
+![options for task 1 part 1](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t1opt1.png)
+![options for task 1 part 2](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t1opt2.png)
+![result of task 1](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t1fin.png)
+
 ---
 
 ### Задание 2
@@ -27,6 +31,9 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 2
+
+![options for task 2](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t2opt.png)
+![result of task 2](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t2fin.png)
 
 ---
 
@@ -43,6 +50,10 @@
 
 ### Решение 3
 
+![options for task 3](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t3opt.png)
+![result of task 3 part 1](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t3fin1.png)
+![result of task 3 part 2](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t3fin2.png)
+
 ---
 
 ### Задание 4*
@@ -54,3 +65,8 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 4
+
+![options for task 4](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t4opt.png)
+![result of task 4 part 1](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t4fin1.png)
+![result of task 4 part 2](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t4fin1.png)
+
