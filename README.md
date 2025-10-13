@@ -68,5 +68,5 @@
 
 ![options for task 4](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t4opt.png)
 ![result of task 4 part 1](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t4fin1.png)
-![result of task 4 part 2](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t4fin1.png)
+![result of task 4 part 2](https://github.com/murtazinilyas/8.2_CI-CD_mia/blob/main/screenshots/t4fin2.png)
 
